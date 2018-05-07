@@ -1,0 +1,22 @@
+{
+  "name": "mockups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Gonçalves <dev.luizh@gmail.com> (http://www.luizgoncalves.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "bulma-extensions": "^1.0.14",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^3.0.0"
+  }
+}
