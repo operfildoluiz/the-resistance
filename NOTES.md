@@ -1,4 +1,4 @@
-# Random names
+# Personagens aleatórios
 
 * Srta. Rosa 
 * Prof. Mostarda
@@ -13,10 +13,10 @@
 
 # Cargos
 ### Resistência
-Comandante Verdadeiro
-Guarda-costas
+* Comandante Verdadeiro
+* Guarda-costas
 
 ### Espiões
-Comandante Falso
-Agente Invisível
-Assassino
+* Comandante Falso
+* Agente Invisível
+* Assassino
